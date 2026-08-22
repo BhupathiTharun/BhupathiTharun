@@ -57,15 +57,6 @@
 - Forecasting
 - Statistical Interpretation
 
-### **Machine Learning**
-
-- Supervised Learning
-- Unsupervised Learning
-- Customer Segmentation
-- K-Means Clustering
-- Predictive Analytics
-- Time-Series Forecasting
-
 ### **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
