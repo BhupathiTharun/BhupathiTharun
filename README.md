@@ -12,6 +12,7 @@
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhupathi-tharun)
 - 💻 Check out my projects on [GitHub](https://github.com/BhupathiTharun)
 - 📫 How to reach me: **bhupathitharun8292@gmail.com**
+- 📒 Portfolio: [Portfolio](https://bhupathi-tharun.ai.studio)
 
 ---
 
